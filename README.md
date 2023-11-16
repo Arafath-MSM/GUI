@@ -6,3 +6,7 @@ Create a Student registration GUI
 4.All fields must be entered for the submission. 
 5.Added Datas should be filled the tables in the page . 
 6.When you select one row in the table you should update the details anddeletethe details.
+
+Here is the some Screenshots of My Student registration form
+![1](https://github.com/Arafath-MSM/GUI/assets/139915083/d19abbfe-cf37-4f84-85bf-29179bd22eea)
+
