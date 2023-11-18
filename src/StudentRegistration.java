@@ -3,7 +3,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class StudentRegistration extends JDialog {
+public class StudentRegistration extends JDialog 
+{
     private JTextField tfName;
     private JTextField tfRegistrationNumber;
     private JTextField tfEmail;
