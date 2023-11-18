@@ -17,7 +17,8 @@ public class StudentRegistration extends JDialog
     private JLabel res;
     private JTextArea tout;
 
-    public StudentRegistration(JFrame parent) {
+    public StudentRegistration(JFrame parent) 
+    {
         super(parent);
         setTitle("Create a new Student Registration  ");
         setContentPane(StudentRegisterPanel);
